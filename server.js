@@ -8,7 +8,7 @@ server. listen(port, function(error) {
     if (error) {
         console.log('Man, something went wrong !', error)
     }else {
-        console.log('Server is lestening on port ' + port)
+        console.log('Man, Server is lestening on port ' + port)
     }
 
 
